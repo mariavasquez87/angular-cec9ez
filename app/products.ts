@@ -1,7 +1,7 @@
 export const sampleProducts = [
   {
     ProductID: 1,
-    ProductName: 'Chaig',
+    ProductName: 'Chaigs',
     SupplierID: 1,
     CategoryID: 1,
     QuantityPerUnit: '10 boxes x 20 bags',
